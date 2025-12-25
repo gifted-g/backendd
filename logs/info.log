@@ -22,3 +22,7 @@
 {"timestamp":"2025-12-25T03:44:58.826Z","level":"INFO","message":"Server running on port 5000"}
 {"timestamp":"2025-12-25T03:44:58.830Z","level":"INFO","message":"Environment: development"}
 {"timestamp":"2025-12-25T03:45:03.073Z","level":"INFO","message":"POST /api/waitlist"}
+{"timestamp":"2025-12-25T03:49:41.163Z","level":"INFO","message":"Server running on port 5000"}
+{"timestamp":"2025-12-25T03:49:41.171Z","level":"INFO","message":"Environment: development"}
+{"timestamp":"2025-12-25T05:49:59.220Z","level":"INFO","message":"Server running on port 5000"}
+{"timestamp":"2025-12-25T05:49:59.227Z","level":"INFO","message":"Environment: development"}
