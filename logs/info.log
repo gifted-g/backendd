@@ -1,0 +1,24 @@
+{"timestamp":"2025-12-25T03:18:04.541Z","level":"INFO","message":"Server running on port 5000"}
+{"timestamp":"2025-12-25T03:18:04.544Z","level":"INFO","message":"Environment: development"}
+{"timestamp":"2025-12-25T03:21:46.103Z","level":"INFO","message":"Server running on port 5000"}
+{"timestamp":"2025-12-25T03:21:46.258Z","level":"INFO","message":"Environment: development"}
+{"timestamp":"2025-12-25T03:22:30.534Z","level":"INFO","message":"Server running on port 5000"}
+{"timestamp":"2025-12-25T03:22:30.537Z","level":"INFO","message":"Environment: development"}
+{"timestamp":"2025-12-25T03:25:24.616Z","level":"INFO","message":"Server running on port 5000"}
+{"timestamp":"2025-12-25T03:25:24.651Z","level":"INFO","message":"Environment: development"}
+{"timestamp":"2025-12-25T03:25:43.609Z","level":"INFO","message":"Server running on port 5000"}
+{"timestamp":"2025-12-25T03:25:43.613Z","level":"INFO","message":"Environment: development"}
+{"timestamp":"2025-12-25T03:28:10.157Z","level":"INFO","message":"Server running on port 5000"}
+{"timestamp":"2025-12-25T03:28:10.164Z","level":"INFO","message":"Environment: development"}
+{"timestamp":"2025-12-25T03:40:29.611Z","level":"INFO","message":"Server running on port 5000"}
+{"timestamp":"2025-12-25T03:40:29.615Z","level":"INFO","message":"Environment: development"}
+{"timestamp":"2025-12-25T03:41:02.997Z","level":"INFO","message":"Server running on port 5000"}
+{"timestamp":"2025-12-25T03:41:03.002Z","level":"INFO","message":"Environment: development"}
+{"timestamp":"2025-12-25T03:42:41.173Z","level":"INFO","message":"Server running on port 5000"}
+{"timestamp":"2025-12-25T03:42:41.224Z","level":"INFO","message":"Environment: development"}
+{"timestamp":"2025-12-25T03:42:50.736Z","level":"INFO","message":"POST /waitlist"}
+{"timestamp":"2025-12-25T03:43:15.490Z","level":"INFO","message":"POST /api/waitlist"}
+{"timestamp":"2025-12-25T03:43:28.635Z","level":"INFO","message":"POST /api/waitlist"}
+{"timestamp":"2025-12-25T03:44:58.826Z","level":"INFO","message":"Server running on port 5000"}
+{"timestamp":"2025-12-25T03:44:58.830Z","level":"INFO","message":"Environment: development"}
+{"timestamp":"2025-12-25T03:45:03.073Z","level":"INFO","message":"POST /api/waitlist"}
